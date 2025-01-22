@@ -56,11 +56,6 @@
                                     Of bekijk mijn linkedin <span aria-hidden="true">→</span>
                                 </a>
                             </div>
-                            <div class="mt-6"">
-                                <a href="mailto:menno@made-foryou.nl" class="text-sm/6 font-semibold text-gray-900">
-                                    Of stuur mij een mail <span aria-hidden="true">→</span>
-                                </a>
-                            </div>
                         </div>
                         <img src="{{ url('/assets/image/menno-tempelaar.JPG') }}" alt="Menno Tempelaar" class="mt-10 aspect-[6/5] w-full max-w-lg rounded-2xl object-cover sm:mt-16 lg:mt-0 lg:max-w-none xl:row-span-2 xl:row-end-2 xl:mt-36">
                     </div>
@@ -83,6 +78,15 @@
                                     <div>
                                         <dt class="sr-only">Email</dt>
                                         <dd><a class="font-semibold text-indigo-600" href="mailto:menno@made-foryou.nl">menno@made-foryou.nl</a></dd>
+                                    </div>
+                                </dl>
+                            </div>
+                            <div class="rounded-2xl bg-gray-50 p-10">
+                                <h3 class="text-base/7 font-semibold text-gray-900">Muriël Baars</h3>
+                                <dl class="mt-3 space-y-1 text-sm/6 text-gray-600">
+                                    <div>
+                                        <dt class="sr-only">Email</dt>
+                                        <dd><a class="font-semibold text-indigo-600" href="mailto:muriel@made-foryou.nl">muriel@made-foryou.nl</a></dd>
                                     </div>
                                 </dl>
                             </div>
