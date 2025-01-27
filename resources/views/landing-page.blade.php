@@ -32,25 +32,31 @@
                         <h1 class="max-w-2xl text-balance text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl lg:col-span-2 xl:col-auto">Made ontwikkelt</h1>
                         <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
                             <p class="text-pretty text-lg font-medium text-gray-500 sm:text-xl/8 mb-6">
-                                Wij bij Made ontwikkelen website, web-applicaties en digitale oplossingen voor uw bedrijf.
-                                Ook voor het ontwerp van websites kunnen wij samen met onze partners een totale oplossing
-                                bieden. Tegenwoordig zijn er al zoveel bureau's en studio's waar je terecht kunt.
+                                Bij Made ontwikkelen we websites, webapplicaties en digitale oplossingen die perfect
+                                aansluiten bij de behoeften van jouw bedrijf. Daarnaast bieden we, samen met onze
+                                partners, complete oplossingen voor het ontwerp en de realisatie van jouw website.
                             </p>
                             <p class="text-pretty text-lg font-medium text-gray-500 sm:text-xl/8 mb-6">
-                                Wat maakt Made dan anders? Wij zullen altijd eerlijk zijn in onze communicatie en zullen
-                                bij alles wat we doen of wat er gebeurt alles proberen uit te leggen. We merken dat
-                                tegenwoordig de online technieken steeds sneller groeien en dat het voor vele
-                                bedrijven allemaal maar blackbox werkzaamheden zijn.
+                                Waarom kiezen voor Made, terwijl er zoveel bureaus en studio’s zijn?<br/>
+                                Het verschil zit in onze aanpak. Wij geloven in transparantie en heldere communicatie.
+                                Bij alles wat we doen, leggen we uit waarom we bepaalde keuzes maken en wat er
+                                precies gebeurt. In een tijd waarin online technologieën razendsnel evolueren
+                                en voor veel bedrijven als een ‘black box’ aanvoelen, maken wij het onze
+                                missie om je inzicht te geven in het proces.
                             </p>
                             <p class="text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
-                                Wij gaan hier absoluut geen misbruik van maken en zullen je meenemen in het complete
-                                proces en laten je zien hoe je website of applicatie het doet en nemen je mee in
-                                de groei en de status van de website.
+                                We nemen je stap voor stap mee in de ontwikkeling en groei van jouw website of
+                                applicatie. Je krijgt niet alleen inzicht in de status en prestaties, maar
+                                ook in de strategie achter onze aanpak. Misbruik maken van
+                                onduidelijkheden? Dat doen wij niet. Onze focus ligt op
+                                een eerlijke samenwerking waarin jij volledig
+                                betrokken bent bij het succes van jouw
+                                digitale oplossing.
                             </p>
                             <div class="mt-10 flex items-center gap-x-6">
                                 <a href="https://fantastical.app/mentempelaar/kennismaking"
                                    class="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">
-                                    Nieuwsgierig en kennismaken?
+                                    Samenwerken? Neem Contact Op
                                 </a>
                             </div>
                         </div>
